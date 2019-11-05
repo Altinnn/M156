@@ -1,0 +1,52 @@
+# *Modul 126 Dokumentation für die Lernenden* 
+
+# Inhaltsverzeichnis
+  - [01 - Autoren](#01---autoren)
+  - [02 - Einfuehrung](#02---einfuehrung)
+	- [02.1 - Funktionialitaet](#02.1---funktionalitaet)
+  - [03 - Materialliste](#03---materialliste)
+	- [03.1 - Verwendetet-Tools](#02.1---verwendete-tools)
+  - [04 - Installationsanleitung](#04---installationsanleitung)
+	- [04.1 - Anweisung verstaendlich und nachvollziehbar](#04.1---anweisung verstaendlich und nachvollziehbar)
+	- [04.2 - Keine fertigen Loesungsschritte aufzeigen](#04.2---keine fertigen loesungsschritte aufzeigen)
+	- [04.3 - Hilfestellung](#04.3---hilfestellung)
+  - [05 - Qualitaetskontrolle](#05---qualitaetskontrolle)
+  - [06 - Error-Handling](#06---error-handling)
+  
+## 01 - Autoren
+
+Autoren: Altin Nuhiu, Kerim Cetin
+
+
+## 02 - Einfuehrung
+
+### 02.1 - Funktionialitaet
+
+
+
+## 03 - Materialliste
+* Raspberry Pi
+* MicroSD-Karte 
+* Netzteil
+* Netzwerk-Kabel
+
+
+
+### 03.1 - Verwendetet Tools
+* Git-Client (SSH-Key)
+* IP-Scanner 
+* Notepad ++
+* Linux NEMS Image
+
+
+## 04 - Installationsanleitung
+
+### 04.1 - Anweisung verstaendlich und nachvollziehbar
+
+### 04.2 - Keine fertigen Loesungsschritte aufzeigen
+
+### 04.3 - Hilfestellung
+
+## 05 - Qualitaetskontrolle
+
+## 06 - Error-Handling
