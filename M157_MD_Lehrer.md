@@ -44,7 +44,7 @@ Die Kläranlage Zürich braucht für ihre EDV-Infrastruktur ein Monitoring-Syste
 
 Den Raspberry mit NEMS Linux aufsetzen.  Nach der Erfolgreichen Installation ist das Nems Monitoring Portal über den Browser erreichbar.
 
-
+### ![Client aufnehmen.png](https://github.com/Altinnn/M157/blob/master/Bilder/Nems%20Portal.png)
 
 
 
@@ -55,8 +55,7 @@ Den Raspberry mit NEMS Linux aufsetzen.  Nach der Erfolgreichen Installation ist
 Nems Server überprüfen ob alle Funktionen und Service installiert worden sind. Dies kann im Browser unter **Nems Server Overview** angezeigt werden. 
 
 
-
-### ![Client aufnehmen.png](https://github.com/Altinnn/M157/blob/master/Bilder/Nems%20Portal.png)
+### ![Client aufnehmen.png](https://github.com/Altinnn/M157/blob/master/Bilder/Nems%20Server%20Overview.png)
 
 
 
