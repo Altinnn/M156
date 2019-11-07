@@ -56,7 +56,7 @@ Nems Server überprüfen ob alle Funktionen und Service installiert worden sind.
 
 
 
-Bild
+### ![Client aufnehmen.png](https://github.com/Altinnn/M157/blob/master/Bilder/Nems%20Portal.png)
 
 
 
