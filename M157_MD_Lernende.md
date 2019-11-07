@@ -31,14 +31,14 @@ Die Kläranlage Zürich braucht für ihre EDV-Infrastruktur ein Monitoring-Syste
 - Rasberry PI mit NEMS Linux aufsetzten 
 - Grundkonfiguration Betriebssystem vornehmen
 - Nagios Enterprise Monitoring Server installieren
-- Clints oder Server ins Monitoring einbinden mit Hilfe von NC++
-- Email Benachrichtigung einrichten 
+- Clients oder Server ins Monitoring einbinden
+- Email Benachrichtigung einrichten
 
 
 
 ### Zeitaufwand
 
-Diese Aufträge könne in 4 Lektionen erledigt werden 
+Der Zeitrahmen für diese Aufträge beträgt 3 Schullektionen.  
 
 ## 03 - Materialliste
 * Raspberry Pi
@@ -60,35 +60,34 @@ Für dieses Projekt soll die Monitoring Lösung [Nagios]( https://www.nagios.org
 
 - Den Raspberry Pi mit NEMS Linux als OS aufsetzen
 - Sich mit der Monitoring Lösung Nagios vertraut machen 
-- Die zu überwachenden Geräte(mindestes 3 Geräte) ins Monitoring einbinden 
-- Email Notification einrichten 
+- Die zu überwachenden Geräte (mindestes 3 Geräte) ins Nagios Monitoring einbinden 
+- Email Notification einrichten
+- Monitoring Testen
+
+### Hilfestellung
+
+Wenn Hilfe benötigt wird kann diese auf den Foren von NEMS Linux und Nagios gefunden werden.
 
 
-
-### 04.1 - Anweisung verständlich und nachvollziehbar
-
-### 04.2 - Keine fertigen Lösungsschritte aufzeigen
-
-### 04.3 - Hilfestellung
 
 ## 05 - Qualitätskontrolle
 
 #### Nems Linux Funktionalität
 
-SOLL: Nagios Monitoring Server kann über den Browser aufgerufen werden
+SOLL: Nagios Monitoring Server kann über den Browser aufgerufen werden.
 
 #### Nagios Monitoring Server
 
-SOLL:
+SOLL: Zu überwachende Geräte können hinzugefügt werden. 
 
-#### NSClient
+#### NSClient / NRPE
 
-SOLL: Version 0.5.2.35 installiert
+SOLL: Monitoring Daten werden an Monitoring Server übermittelt.
 
 #### Monitoring
 
-SOLL:
+SOLL: Nagios bereitet entsprechende Daten auf und zeigt diese im Dashboard dar.  
 
 ## 06 - Error-Handling
 
-Auf der Webseite von NEMS Linux und Nagios
+Auf der Webseite von NEMS Linux und Nagios sind Hilfreiche Erklärungen. Natürlich gibt es auch im World Wide Web unzählige Foren bezüglich Monitoring mit NEMS/Nagios. 
