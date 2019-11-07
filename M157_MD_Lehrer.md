@@ -5,10 +5,10 @@
   - [02 - Funktion des Servers](#02---funktion des servers)
 	- [02.1 - Beschreibung; welche Funktionen wird der Server erfuellen](#02.1---beschreibung; welche funktionen wird der server erfuellen)
   - [03 - Benötigte Hard- und Software](#03---benoetigte hard- und software)
-	- [03.1 - Hardware](#03.1---Hardware)
-	- [03.2 - Software](#03.2---Software)
+	- [03.1 - Hardware](#03.1---hardware)
+	- [03.2 - Software](#03.2---software)
   - [04 - Installationsanleitung](#04---installationsanleitung)
-  - [05 - Testing](#05---Testverfahren)
+  - [05 - Testing](#05---testverfahren)
   - [06 - Uebergabe an den Betrieb:](#06---uebergabe an den betrieb:)
   - [07 - Quellen](#07---quellen)
 
@@ -117,8 +117,6 @@ sudo /etc/init.d/nagios-nrpe-server restart
 | 3    | Nems Monitoring Server kann über den Browser aufgerufen werden. | Über den Browser mit der entsprechende IP-Adresse auf das Nems Portal verbinden | Ja        |
 | 4    | NSClient/ **NRPE** senden Daten an den Monitoring Server.    | Nagios Dashboard                                             | teilweise |
 | 5    | Clients / Server sind im Nagios Monitrong hinzugefügt        | Erscheinen im Nems Konfigurator als zu Überwacheden Geräte   | Ja        |
-| 6    |                                                              |                                                              |           |
-
 
 
 ## 06 - Übergabe an den Betrieb:
