@@ -3,7 +3,7 @@
 # Inhaltsverzeichnis
   - [01 - Autoren](#01---autoren)
   - [02 - Funktion des Service](#02---funktion des service)
-  - [03 - Benötigte Hard- und Software](#03---benötigte hard- und software)
+  - [03 - Benoetigte Hard- und Software](#03---benoetigte hard- und software)
 	- [03.1 - Hardware](#03.1---hardware)
 	- [03.2 - Software](#03.2---software)
   - [04 - Installationsanleitung](#04---installationsanleitung)
