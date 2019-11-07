@@ -68,7 +68,7 @@ erfolgt unter **Basic Items -> Add Host**.  Nun die IP Adresse, DNS Name hinzuf√
 
 
 
-### ![Client aufnehmen.png](M157/Bilder/Client aufnehmen.png)
+### ![Client aufnehmen.png](https://github.com/Altinnn/M157/blob/master/Bilder/Client%20aufnehmen.png)
 
 
 
