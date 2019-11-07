@@ -3,12 +3,12 @@
 # Inhaltsverzeichnis
   - [01 - Autoren](#01---autoren)
   - [02 - Funktion des Service](#02---funktion des service)
-  - [03 - Benoetigte Hard- und Software](#03---benoetigte hard- und software)
+  - [03 - Benötigte Hard- und Software](#03---benötigte hard- und software)
 	- [03.1 - Hardware](#03.1---hardware)
 	- [03.2 - Software](#03.2---software)
   - [04 - Installationsanleitung](#04---installationsanleitung)
   - [05 - Testing](#05---testverfahren)
-  - [06 - Uebergabe an den Betrieb:](#06---uebergabe an den betrieb:)
+  - [06 - Übergabe an den Betrieb](#06---übergabe an den betrieb)
   - [07 - Quellen](#07---quellen)
 
 ## 01 - Autoren
@@ -39,7 +39,7 @@ Die Kläranlage Zürich braucht für ihre EDV-Infrastruktur ein Monitoring-Syste
 
 ## 04 - Installationsanleitung
 
-### Basis Konfigurationen
+### 04.1 - Basis Konfigurationen
 
 Den Raspberry mit NEMS Linux aufsetzen.  Nach der Erfolgreichen Installation ist das Nems Monitoring Portal über den Browser erreichbar.
 
@@ -49,7 +49,7 @@ Den Raspberry mit NEMS Linux aufsetzen.  Nach der Erfolgreichen Installation ist
 
 
 
-### NEMS Monitoring Einrichten
+### 04.2 - NEMS Monitoring Einrichten
 
 Nems Server überprüfen ob alle Funktionen und Service installiert worden sind. Dies kann im Browser unter **Nems Server Overview** angezeigt werden. 
 
@@ -58,7 +58,7 @@ Nems Server überprüfen ob alle Funktionen und Service installiert worden sind.
 
 
 
-### Client / Server im Monitoring aufnehmen
+### 04.3 - Client / Server im Monitoring aufnehmen
 
 Im NEMS Configurator die gewünschten Geräte hinzufügen. Diese
 
@@ -70,7 +70,7 @@ erfolgt unter **Basic Items -> Add Host**.  Nun die IP Adresse, DNS Name hinzuf�
 
 
 
-### NSClient/ **NRPE** Installation
+### 04.4 - NSClient/ **NRPE** Installation
 
 Damit Nagios Daten von dem überwachendem Geräte erhalten kann muss ein Add-in installiert werden. Unter Windows wird der NSCLient benötigt entsprechend. Diese Add-in kann auf der NSClient Webseite heruntergeladen werden.  Da die Installation Click to Run ist wird diese nicht weiter erläutert. 
 
