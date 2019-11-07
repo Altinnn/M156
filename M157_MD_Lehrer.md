@@ -16,12 +16,12 @@
 Autoren: Altin Nuhiu, Kerim Cetin
 
 
-## 02 - Funktion des Servers
+## 02 - Funktion des Service
 
 Die Kläranlage Zürich braucht für ihre EDV-Infrastruktur ein Monitoring-System. Sie haben unzählige Sensoren für die Wasserbecken im Einsatz die dazu benötigt werden, den Wasserstand 24/7 zu messen. Zusätzlich möchte der IT-Leiter der Kläranlage Zürich die ganze EDV-Infrastruktur überwachen lassen.
 
 
-## 03 - Benötigte Hard- und Software
+## 03 - Benoetigte Hard- und Software
 
 ### 03.1 - Hardware
 
@@ -118,7 +118,7 @@ sudo /etc/init.d/nagios-nrpe-server restart
 | 5    | Clients / Server sind im Nagios Monitrong hinzugefügt        | Erscheinen im Nems Konfigurator als zu Überwacheden Geräte   | Ja        |
 
 
-## 06 - Übergabe an den Betrieb:
+## 06 - Uebergabe an den Betrieb:
 
 Ist ein einem separaten Abnahmeprotokoll festgehalten. 
 
