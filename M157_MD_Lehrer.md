@@ -46,7 +46,7 @@ Den Raspberry mit NEMS Linux aufsetzen.  Nach der Erfolgreichen Installation ist
 
 
 
-Bild
+
 
 
 
@@ -68,7 +68,7 @@ erfolgt unter **Basic Items -> Add Host**.  Nun die IP Adresse, DNS Name hinzuf√
 
 
 
-### ![image-20191106182341156](C:\Users\Kerim.Cetin\AppData\Roaming\Typora\typora-user-images\image-20191106182341156.png)
+### ![Client aufnehmen.png](M157/Bilder/Client aufnehmen.png)
 
 
 
